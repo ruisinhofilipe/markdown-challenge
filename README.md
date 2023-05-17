@@ -4,8 +4,10 @@
 
 ## I have 3 lovers, my gf and my 2 cats
 
-
-| Birthday | 06/April|
-| Favorite Color | Light gray |
-| Favorite food | *Anything* cooked by my mum |
+| Column 1                | column 2                    |
+|:----------------------: | :-------------------------: |
+| Birthday                | 06/April                    |
+| Favorite Color          | Light gray                  |
+| Favorite food           | *Anything* cooked by my mum |
 | Pinneapple on pizza -[] |
+
