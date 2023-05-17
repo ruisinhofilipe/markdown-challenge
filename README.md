@@ -9,5 +9,5 @@
 | Birthday                  | 06/April                    |
 | Favorite Color            | Light gray                  |
 | Favorite food             | *Anything* cooked by my mum |
-| - [X] Pinneapple on pizza |
+| -[X] Pinneapple on pizza |
 
