@@ -4,10 +4,10 @@
 
 ## I have 3 lovers, my gf and my 2 cats
 
-|        Questions         |          Answers            |
-|:-----------------------: | :-------------------------: |
-| Birthday                 | 06/April                    |
-| Favorite Color           | Light gray                  |
-| Favorite food            | *Anything* cooked by my mum |
-| Pinneapple on pizza * [] |
+|        Questions          |          Answers            |
+|:------------------------: | :-------------------------: |
+| Birthday                  | 06/April                    |
+| Favorite Color            | Light gray                  |
+| Favorite food             | *Anything* cooked by my mum |
+| Pinneapple on pizza * [ ] |
 
