@@ -2,7 +2,7 @@
 
 *Nothing in life is promised except death, so you might as well live your life*
 
-## Me in one sentence
+## 
 
 |        Questions          |          Answers            |
 |:------------------------: | :-------------------------: |
@@ -32,8 +32,7 @@
 #### You can always count on me when ... 
 
 As a group and if the group wants to succed, everyone needs to work and do their part of the job and that's exactly what you can expect from me. 
-I also like to help the others, whenever it's possible / I know about your question/topic and I'm able to help.
-Altough my english level is good, my french level is really average so I'm sure you'll have a great time laughin at my french haha.  
+I also like to help the others, whenever it's possible / I know about your question/topic and I'm able to help. My french is really average, not bad but also far from being good, so I'm sure you'll have greats laughs hearing me trying to speak french which is always a plus.
 
 
 ##### Funny Story  
@@ -56,4 +55,7 @@ Turns out they were undercover cops and by WER they assumed we were trying to se
 They ended by searching for something in ours backpacks but eventually they let us go.
 
 ###### TL;DR
-Asked a couple of undercover cops if they were also trying to capture a legendary Pokemon but they tought I was trying to sell / buy drugs.
+Asked a couple of undercover cops if they were also trying to capture a legendary Pokemon in PokemonGo and they tought I was trying to sell / buy drugs.
+
+
+[comment]: # (still need to finish the linking to thers profiles part)
