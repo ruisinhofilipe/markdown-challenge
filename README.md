@@ -51,6 +51,6 @@ We aproached the couple and asked "Hey! are you here for WER(the legendary pokem
 Turns out they were undercover cops and by "WER" they assumed we were trying to sell them / buy drugs from them... we tried to explain that everything was a missunderstanding and in reallity we were just "capturing pokemons".
 They ended by searching for something in ours backpacks and check our IDs but eventually they let us go.
 
-###### TL;DR
+###### TL;DR:
 Asked a couple of undercover cops if they were also trying to capture a legendary Pokemon in PokemonGo and they tought I was trying to sell / buy drugs.
 
