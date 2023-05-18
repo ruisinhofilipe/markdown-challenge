@@ -18,12 +18,12 @@
         * Comedy
         * Thriller
         * Horror
-    * **Top 3 TV shows**
+    * **Top 3 TV shows:**
         * Prison Break
         * Breaking bad
         * The Office / Brooklyn 99
 * ***Video games***
-    * **My top 3(mostly fps)**
+    * **My top 3(fps only):**
         * COD BlackOps 1
         * COD BlackOps 2
         * COD WWII
@@ -53,4 +53,8 @@ They ended by searching for something in ours backpacks and check our IDs but ev
 
 ###### TL;DR:
 Asked a couple of undercover cops if they were also trying to capture a legendary Pokemon in PokemonGo and they tought I was trying to sell / buy drugs.
+
+[<< previous person](https://github.com/RobinThijsen/markdown-challenge) || Rui Silva || [next person >>](https://github.com/kovasah/PersonalIntroBecode)
+
+<< previous || Rui Silva || next >>
 
