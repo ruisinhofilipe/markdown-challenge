@@ -56,5 +56,3 @@ Asked a couple of undercover cops if they were also trying to capture a legendar
 
 [<< previous person](https://github.com/RobinThijsen/markdown-challenge) || Rui Silva || [next person >>](https://github.com/kovasah/PersonalIntroBecode)
 
-<< previous || Rui Silva || next >>
-
