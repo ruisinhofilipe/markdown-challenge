@@ -54,6 +54,7 @@ They ended by searching for something in ours backpacks and check our IDs but ev
 ###### TL;DR:
 Asked a couple of undercover cops if they were also trying to capture a legendary Pokemon in PokemonGo and they tought I was trying to sell / buy drugs.
 
-Do you want to see this file converted into pure HTML ? [Click here :)]([https://github.com/RobinThijsen/markdown-challenge](https://ruisinhofilipe.github.io/markdown-to-html/))
+Do you want to see this file converted into pure HTML ? [Click here :)]([https://github.com/RobinThijsen/markdown-challenge](https://ruisinhofilipe.github.io/markdown-to-html/)
+
 [<< previous person](https://github.com/RobinThijsen/markdown-challenge) || Rui Silva || [next person >>](https://github.com/kovasah/PersonalIntroBecode)
 
